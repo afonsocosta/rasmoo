@@ -1,1 +1,1 @@
-# rasmoo
+# rasmoo API de estudos
